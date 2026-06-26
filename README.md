@@ -1,6 +1,8 @@
-# Credit Card Fraud Detection Dashboard
+# BharatPay Pro — Credit Card Fraud Detection Dashboard
 
-An interactive, real-time credit card validation and fraud detection dashboard. Built entirely on the client side (on-device) to ensure PCI-DSS alignment, it utilizes behavioral telemetry, user-input biometrics, and a deep BIN database to calculate transactional risk scores.
+BharatPay Pro is a secure, interactive, real-time payment validation and fraud detection dashboard. Built entirely on the client side (on-device) to ensure PCI-DSS alignment, it utilizes behavioral telemetry, user-input biometrics, and a deep BIN database to calculate transactional risk scores.
+
+The user interface features a responsive two-column grid with a custom glassmorphism dashboard, ambient glow backgrounds, and a 3D rotating credit card that responds dynamically to user interactions.
 
 ---
 
