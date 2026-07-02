@@ -1,4 +1,4 @@
-# BharatPay Pro — Credit Card Fraud Detection Dashboard
+# 💳 BharatPay Pro — Credit Card Fraud Detection
 
 BharatPay Pro is a secure, interactive, real-time payment validation and fraud detection dashboard. Built entirely on the client side (on-device) to ensure PCI-DSS alignment, it utilizes behavioral telemetry, user-input biometrics, and a deep BIN database to calculate transactional risk scores.
 
@@ -31,7 +31,7 @@ The user interface features a responsive two-column grid with a custom glassmorp
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/vivekjoshi2006/Credit-Card-Fraud-Detection.git
+   git clone https://github.com/vivekjoshi2006/BharatPay-Pro.git
    cd credit-card-fraud-detect
    ```
 
